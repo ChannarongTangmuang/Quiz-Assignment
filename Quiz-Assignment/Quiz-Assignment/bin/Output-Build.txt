@@ -1,0 +1,11 @@
+﻿Build started...
+1>------ Build started: Project: Quiz-Assignment, Configuration: Debug Any CPU ------
+1>C:\Users\Admin\Documents\GitHub\Quiz-Assignment\Quiz-Assignment\Quiz-Assignment\Form1.cs(55,34,55,35): error CS0136: A local or parameter named 'j' cannot be declared in this scope because that name is used in an enclosing local scope to define a local or parameter
+1>C:\Users\Admin\Documents\GitHub\Quiz-Assignment\Quiz-Assignment\Quiz-Assignment\Form1.cs(57,57,57,58): error CS0103: The name 'i' does not exist in the current context
+1>C:\Users\Admin\Documents\GitHub\Quiz-Assignment\Quiz-Assignment\Quiz-Assignment\Form1.cs(59,67,59,68): error CS0103: The name 'i' does not exist in the current context
+1>C:\Users\Admin\Documents\GitHub\Quiz-Assignment\Quiz-Assignment\Quiz-Assignment\Form1.cs(111,42,111,43): error CS0136: A local or parameter named 'i' cannot be declared in this scope because that name is used in an enclosing local scope to define a local or parameter
+1>C:\Users\Admin\Documents\GitHub\Quiz-Assignment\Quiz-Assignment\Quiz-Assignment\Form1.cs(111,49,111,50): error CS0103: The name 'j' does not exist in the current context
+1>C:\Users\Admin\Documents\GitHub\Quiz-Assignment\Quiz-Assignment\Quiz-Assignment\Form1.cs(111,66,111,67): error CS0103: The name 'j' does not exist in the current context
+1>C:\Users\Admin\Documents\GitHub\Quiz-Assignment\Quiz-Assignment\Quiz-Assignment\Form1.cs(113,85,113,86): error CS0103: The name 'j' does not exist in the current context
+1>Done building project "Quiz-Assignment.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
